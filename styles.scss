@@ -2,3 +2,15 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 1em;
+    h2
+{
+    margin-top: 0.5em;
+    margin-bottom: 2em;
+}
+}
